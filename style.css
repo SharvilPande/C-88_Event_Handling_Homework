@@ -1,0 +1,31 @@
+#myCanvas {
+    border-style: ridge;
+    background-color: white;
+    margin-top: 10px;;
+}
+
+#body_background {
+    background-image: url(heroes.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+h3 {
+    display: inline-block;
+    width: 250px;
+}
+
+h2 {
+    border-radius: 10px;
+    width: 200px;
+}
+
+span{
+    color: black;
+}
+
+.div_info {
+    width: 505px;
+    border-radius: 10px;
+}
+
